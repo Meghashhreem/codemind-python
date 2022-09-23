@@ -14,3 +14,4 @@ elif cc==0:
     print("Even")
 else:
     print("Mixed")
+    
